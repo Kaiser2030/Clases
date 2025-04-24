@@ -8,8 +8,15 @@ namespace _clase2
 {
     internal class Circulo
     {
-        public int Radio;
-        public Circulo(int r) { Radio = r; }
-        public int Area() { return (int)(3.14 * Radio * Radio); }
+        public float r;
+        public Circulo(float r) 
+        { 
+            this.r = r; 
+        }
+        public float Area() 
+        { 
+            return 3.14f * r * r; 
+        
+        }
     }
 }

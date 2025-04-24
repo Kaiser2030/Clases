@@ -5,3 +5,10 @@ D:\programacion\+clase2\obj\Debug\+clase2.csproj.AssemblyReference.cache
 D:\programacion\+clase2\obj\Debug\+clase2.csproj.CoreCompileInputs.cache
 D:\programacion\+clase2\obj\Debug\+clase2.exe
 D:\programacion\+clase2\obj\Debug\+clase2.pdb
+D:\Programacion\clase 3\Clases\bin\Debug\+clase2.exe.config
+D:\Programacion\clase 3\Clases\bin\Debug\+clase2.exe
+D:\Programacion\clase 3\Clases\bin\Debug\+clase2.pdb
+D:\Programacion\clase 3\Clases\obj\Debug\+clase2.csproj.AssemblyReference.cache
+D:\Programacion\clase 3\Clases\obj\Debug\+clase2.csproj.CoreCompileInputs.cache
+D:\Programacion\clase 3\Clases\obj\Debug\+clase2.exe
+D:\Programacion\clase 3\Clases\obj\Debug\+clase2.pdb
