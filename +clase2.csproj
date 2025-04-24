@@ -43,11 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="alumnos.cs" />
     <Compile Include="Circulo.cs" />
     <Compile Include="Class1.cs" />
+    <Compile Include="ejemplos.cs" />
+    <Compile Include="ejercicio.cs" />
     <Compile Include="rectangulo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="salon.cs" />
     <Compile Include="Triangle.cs" />
   </ItemGroup>
   <ItemGroup>
